@@ -1,2 +1,3 @@
 # face_recognition
 简单的人脸识别示例程序
+通过py的cv2库和预训练好的模型实现
